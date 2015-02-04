@@ -1,0 +1,24 @@
+{
+  "name": "drpx-toggle",
+  "version": "0.0.1",
+  "description": "Simple Angular component that provides from a toggle that can be used as model, controller or directive",
+  "main": "drpx-toggle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drpicox/drpx-toggle"
+  },
+  "keywords": [
+    "angularjs",
+    "toggle",
+    "directive"
+  ],
+  "author": "David Rodenas <david.rodenas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drpicox/drpx-toggle/issues"
+  },
+  "homepage": "https://github.com/drpicox/drpx-toggle"
+}
