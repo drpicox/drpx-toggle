@@ -13,7 +13,7 @@
 	<ANY drpx-toggle="toggle [as scopeName]">...</ANY>
 		controller: DrpxToggleController
 */
-(function(angular) {
+;(function(angular) {
 	'use strict';
 
 	angular
