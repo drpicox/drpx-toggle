@@ -80,6 +80,9 @@
 		}
 
 		function find(name) {
+			// no 'new' name can be stored
+			if (name === 'new') { return; }
+			
 			return toggles[name];
 		}
 
